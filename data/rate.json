@@ -1,0 +1,19 @@
+{
+"State": [
+{"state": "Gujarat", "name": "Ahemadabad"},
+{"state": "Gujarat", "name": "Vadodara"},
+{"state": "Gujarat", "name": "Surat"},
+{"state": "Gujarat", "name": "Bardoli"},
+{"state": "Gujarat", "name": "Navsari"},
+{"state": "Rajasthan", "name": "Udaipur"},
+{"state": "Rajasthan", "name": "Jaipur"},
+{"state": "Rajasthan", "name": "Mewad"},
+{"state": "Delhi", "name": "Gaziabad"},
+{"state": "Delhi", "name": "Noida"},
+{"state": "Delhi", "name": "New Delhi"},
+{"state": "Delhi", "name": "Galli"},
+{"state": "Andra", "name": "Bangolre"},
+{"state": "Andra", "name": "Puttaparthi"},
+{"state": "Andra", "name": "Otty"}
+]
+}
